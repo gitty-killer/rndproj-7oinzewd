@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-7oinzewd"",
-  ""goal"": ""metrics summarizer for quota management"",
-  ""language"": ""python"",
-  ""template"": ""python-cli""
+    "name":  "rndproj-7oinzewd",
+    "goal":  "metrics summarizer for quota management",
+    "language":  "python",
+    "template":  "python-cli"
 }
