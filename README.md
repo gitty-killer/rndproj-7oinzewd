@@ -1,4 +1,2 @@
-# rndproj-7oinzewd
-
-Random java project for notes.
-
+# rndproj-7oinzewd\n\nSmall CLI tool for text cleanup and formatting.\n
+New-FileDef
